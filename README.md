@@ -5,6 +5,8 @@ Hi, I'm Alex! I'm an automotive technician bringing my experience in technical d
 Obtain my CompTIA Security+ certification and continue to build my skills working an entry level IT position.
 ## skills
 - Windows Admin
+- Networking
+- Security
 ## tools
 - Virtualbox
 ## cert
