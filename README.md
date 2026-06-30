@@ -6,7 +6,7 @@ Hi, I'm Alex! I'm an automotive technician bringing my experience in technical d
 ### Windows Admin
 - [Local user management L01](https://github.com/AGarcia-HmLab/Windows-Administration/blob/main/README.md) ✔️
 - [File Sharing L02](https://github.com/AGarcia-HmLab/Windows-File-Sharing) ✔️
-- [Windows Troubleshooting](https://github.com/AGarcia-HmLab/Windows-Troubleshooting/blob/main/README.md) ✔️
+- [Windows Troubleshooting L03](https://github.com/AGarcia-HmLab/Windows-Troubleshooting/blob/main/README.md) ✔️
 ### Networking
 🚧
 ### Security
